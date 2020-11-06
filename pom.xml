@@ -5,9 +5,9 @@
     <packaging>pom</packaging>
 
     <groupId>io.dpteam</groupId>
-    <artifactId>PluginName</artifactId>
+    <artifactId>PluginTemplate</artifactId>
 
-    <name>PluginName</name>
+    <name>PluginTemplate</name>
     <version>1.0.0-SNAPSHOT</version>
 
     <repositories>
