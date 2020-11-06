@@ -1,4 +1,4 @@
 # DPT-PluginRepoTemplate
 DPT Specific Plugins for Bukkit-based plugin template
 
-DartPower Team © 2020
+![Build](https://github.com/dptmc/DPT-PluginRepoTemplate/workflows/Build/badge.svg)
