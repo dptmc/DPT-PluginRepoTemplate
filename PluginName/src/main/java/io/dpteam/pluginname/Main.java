@@ -1,4 +1,4 @@
-package io.dpteam.pluginname;
+package io.dpteam.PluginName;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
